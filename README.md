@@ -7,7 +7,6 @@ Vimconfig
 Installing your Vim environment on another machine
 -------------------------------------------------------
 cd ~ 
-
 git clone http://github.com/username/dotvim.git ~/.vim 
 
 ln -s ~/.vim/vimrc ~/.vimrc 
